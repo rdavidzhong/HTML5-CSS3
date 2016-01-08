@@ -10,7 +10,16 @@ p{
 h1
 {
     font:bold italic 50px Tahoma; /* One line style */
-    background-color:darkslategrey;
+    /*padding:50px;*/
+   /*
+    padding-top:10px;
+    padding-bottom:50px;
+    padding-left:20px;
+    padding-right:20px;
+   */
+    padding:5px 5px 5px 5px; /* Top right bottom left */ /* one line style*/
+    padding:10px 40px; /*Top bottom and left right*/
+background-color:darkslategrey;
 }
 h6{
     color:darkcyan;
