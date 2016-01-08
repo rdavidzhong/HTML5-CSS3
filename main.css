@@ -1,5 +1,6 @@
 /* */
-p{
+p
+{
     font-family:Arial;
     font-weight:bold;
     font-style:italic;
@@ -19,8 +20,15 @@ h1
    */
     padding:5px 5px 5px 5px; /* Top right bottom left */ /* one line style*/
     padding:10px 40px; /*Top bottom and left right*/
-background-color:darkslategrey;
+    /*
+    border-style:solid;
+    border-color:black;
+    */
+    border:6px ridge black;
+    background-color:darkslategrey;
 }
-h6{
+
+h6
+{
     color:darkcyan;
 }
