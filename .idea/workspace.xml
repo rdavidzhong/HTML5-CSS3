@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1391eeac-19a4-4895-8f8a-53f036f217f0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sync.sh" afterPath="$PROJECT_DIR$/sync.sh" />
     </list>
     <ignored path="HTML5-CSS3.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="sync.sh" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sync.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.23626374">
-              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+            <state vertical-scroll-proportion="0.04945055">
+              <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -60,10 +58,10 @@
       <list>
         <option value="$PROJECT_DIR$/notes.txt" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/sync.sh" />
         <option value="$PROJECT_DIR$/second_page.html" />
         <option value="$PROJECT_DIR$/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/sync.sh" />
       </list>
     </option>
   </component>
@@ -410,12 +408,12 @@
       <workItem from="1452232813575" duration="4469000" />
       <workItem from="1452240287726" duration="1860000" />
       <workItem from="1452278657089" duration="749000" />
-      <workItem from="1452279753473" duration="4422000" />
+      <workItem from="1452279753473" duration="4509000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12559000" />
+    <option name="totallyTimeSpent" value="12646000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="7" y="26" width="1150" height="647" extended-state="0" />
@@ -458,7 +456,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="46" column="7" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
-          <folding />
+          <folding>
+            <marker date="1452288741000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1452288741000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1452288741000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1452288741000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1452288741000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1452288741000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1452288741000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1452288741000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1452288741000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -466,7 +474,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-          <folding />
+          <folding>
+            <marker date="1452288741000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1452288741000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1452288741000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1452288741000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1452288741000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1452288741000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1452288741000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1452288741000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1452288741000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -506,13 +524,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sync.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09287926">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/second_page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6360424">
@@ -535,8 +546,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.23626374">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.9010989">
+          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+          <folding>
+            <marker date="1452288741000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1452288741000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1452288741000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1452288741000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1452288741000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1452288741000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1452288741000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1452288741000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1452288741000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sync.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.04945055">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
           <folding />
         </state>
       </provider>
