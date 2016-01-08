@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1391eeac-19a4-4895-8f8a-53f036f217f0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.css" afterPath="$PROJECT_DIR$/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/second_page.html" afterPath="$PROJECT_DIR$/second_page.html" />
     </list>
     <ignored path="HTML5-CSS3.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,8 +29,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.55705994">
-              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.82591873">
+              <caret line="36" column="3" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -408,12 +409,12 @@
       <workItem from="1452232813575" duration="4469000" />
       <workItem from="1452240287726" duration="1860000" />
       <workItem from="1452278657089" duration="749000" />
-      <workItem from="1452279753473" duration="7532000" />
+      <workItem from="1452279753473" duration="7904000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15669000" />
+    <option name="totallyTimeSpent" value="16041000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="7" y="26" width="1150" height="773" extended-state="0" />
@@ -493,9 +494,9 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
           <folding>
-            <marker date="1452291920000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1452291920000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1452291920000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1452295381000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1452295381000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1452295381000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -547,18 +548,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/second_page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.477551">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-          <folding>
-            <marker date="1452291920000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1452291920000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1452291920000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.073469386">
@@ -567,10 +556,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/second_page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4408163">
+          <caret line="12" column="68" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
+          <folding>
+            <marker date="1452295381000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1452295381000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1452295381000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55705994">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.82591873">
+          <caret line="36" column="3" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
           <folding />
         </state>
       </provider>

@@ -25,10 +25,18 @@ h1
     border-color:black;
     */
     border:6px ridge black;
+    margin:0px;
     background-color:darkslategrey;
 }
 
 h6
 {
     color:darkcyan;
+}
+
+/* 0px for margin */
+body
+{
+    margin:0px;
+    padding:0px;
 }
