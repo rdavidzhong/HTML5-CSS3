@@ -40,3 +40,17 @@ body
     margin:0px;
     padding:0px;
 }
+
+div
+{
+    border:5px solid darkgreen;
+    margin:10px 10px 10px 10px;
+    background-color:yellow;
+    width:250px;
+}
+
+span
+{
+    color:green;
+    text-decoration:underline;
+}
