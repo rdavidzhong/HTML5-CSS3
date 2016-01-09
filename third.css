@@ -88,3 +88,29 @@ p:first-letter
     background-color:grey;
     color:red;
 }
+
+/* 27 */
+a
+{
+    color:green;
+    text-decoration:none;
+}
+
+a:hover
+{
+    color:red;
+    text-decoration:underline;
+
+}
+
+a:active
+{
+    color:orange;
+
+}
+
+a:visited
+{
+    color:darkblue;
+    text-decoration:none;
+}
