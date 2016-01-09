@@ -55,3 +55,29 @@ p:first-letter
     front-weight:bold;
     font-size:70px;
 }
+
+
+/* 25 - more pseudo classes */
+#parent p:first-child
+{
+    color:red;
+    front-weight:bold;
+    font-size:70px;
+    text-decoration:underline;
+}
+
+#parent p:before
+{
+    content:"Before that";
+    color:darkgreen;
+    front-weight:bold;
+    font-size:60px;
+}
+
+#parent p:after
+{
+    content:"after that";
+    color:black;
+    front-weight:bold;
+    font-size:50px;
+}
