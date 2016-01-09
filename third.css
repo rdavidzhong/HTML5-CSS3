@@ -46,3 +46,12 @@ div p
     font-size:80px;
     color:darkviolet;
 }
+
+
+/* 24 - pseudo classes */
+p:first-letter
+{
+    color:darkgreen;
+    front-weight:bold;
+    font-size:70px;
+}
