@@ -81,3 +81,10 @@ p:first-letter
     front-weight:bold;
     font-size:50px;
 }
+
+/* 26 */
+#parent p:nth-child(even) /* #parent p:nth-child(2n) */
+{
+    background-color:grey;
+    color:red;
+}
