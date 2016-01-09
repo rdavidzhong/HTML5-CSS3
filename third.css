@@ -21,3 +21,28 @@ p
 }
 
 
+/* ID */
+
+#blue
+{
+    font-size:50px;
+    color:blue;
+}
+
+#yellow
+{
+    color:yellow;
+}
+
+#red
+{
+    color:red;
+}
+
+/* 23 - Child selector */
+/* Can combine with class or ID */
+div p
+{
+    font-size:80px;
+    color:darkviolet;
+}
