@@ -1,0 +1,21 @@
+/* 37 - Get rid of default padding and margin */
+*
+{
+    margin:0px;
+    padding:0px;
+    list-style-type:none;
+}
+
+/* Start */
+header, nav, article, section, footer
+{
+    display:block;
+}
+
+/* Centering website */
+.container
+{
+    width:1400px;
+    margin:0px auto;
+   /* border:2px solid; */ /* To check */
+}
