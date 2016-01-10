@@ -38,6 +38,7 @@ header, nav, article, section, footer, aside
 {
     float:left;
     width:768px; /* 1000 - 232 = 768 */
+
 }
 
 /* Set navigation next to each other */
@@ -46,7 +47,7 @@ header, nav, article, section, footer, aside
    /* float:left; */
    /* display:inline-block; */
     float:left;
-    padding:25px 20px;
+    padding:35px 35px;
 }
 
 /* 39 Float aside and main section */
@@ -54,20 +55,37 @@ header, nav, article, section, footer, aside
 {
     float:left;
     /* For more information */
-    width:700px;
-    border:2px solid cornflowerblue;
-    margin-right:10px;
+   /* width:700px; */
+    width:1100px;
+  /*  border:2px solid cornflowerblue; */
+  /*  margin-right:10px; */
+  /*  padding:5px; */
 }
 
 .right_side
 {
     float:left;
     width:300px;
-    border:2px solid red;
+   /* border:2px solid red; */
 }
 
+.left_side article
+{
+  /*  border:2px solid darkcyan; */
+    margin-right:10px;
+    padding:5px;
+}
+
+.right_side div
+{
+    border:2px solid blue;
+    margin:10px 0px; /* top left bottom right */
+    padding:10px;
+
+}
 /* make footer clear floated */
 .page_footer
 {
     clear:both;
+    text-align:center;
 }
